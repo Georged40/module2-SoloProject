@@ -1,0 +1,71 @@
+html, body {
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    background: #E5E5E5;
+    height: 550px;
+    color: #ffffff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+#hero{
+        margin-top: 0;
+        background: linear-gradient(246.26deg, #585DFE 0%, #FB3796 100%);
+        width: 550px;
+        height:260px;
+}
+h1{
+   
+    font-size: 22px;
+    width: 448px;
+    height: 38px;
+    font-size: 22px;
+    margin-top: 53px;
+    margin-left: 51px;
+    margin-bottom: 6px;
+    
+}
+h2{
+   margin-top: 0;
+    width: 211px;
+    height: 51px;
+    font-size: 98px;
+    margin-left: 169px;
+    
+    
+}
+h4{
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.wrapper{
+    border: solid 5px #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    height: 550px;
+}
+
+.forSupporting{
+   background: #1F2937;
+    width: 550px;
+    height: 290px;
+    border: 4px solid 1F2937;
+    
+}
+#mass{
+    padding-bottom: 38px;
+    margin-bottom: 0;
+   }
+#supporting1{
+    margin-top: 37px;
+    
+}
+.calculations{
+    font-weight: 300;
+}
